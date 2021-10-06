@@ -1,0 +1,7 @@
+{
+    "uuid": "microphone-applet@alexandr7035",
+    "name": "Microphone Applet",
+    "description": "Control microphone level with the applet",
+    "icon": "icon",
+    "max-instances": "-1"
+}
